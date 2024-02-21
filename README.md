@@ -9,7 +9,7 @@ I'm Sanskar, a CS Graduate from College of Engineering Pune.
 <!-- ![Sanskar's github stats](https://github-readme-stats.vercel.app/api?username=sanskardudhe09) -->
 
 ### Languages and Tools used ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardudhe09&theme=tokyonight
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardudhe09&theme=tokyonight)
 
 
 
