@@ -10,10 +10,10 @@ I'm Sanskar, a CS Graduate from College of Engineering Pune.
 
 ### Languages and Tools used ###
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardudhe09&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardudhe09)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskardudhe09&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+)
 
 
 <!--
