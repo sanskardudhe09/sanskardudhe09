@@ -5,7 +5,7 @@ I'm Sanskar, a CS Graduate from College of Engineering Pune.
  * 📫 Reach me at: [sanskardudhe2018@gmail.com](mailto:sanskardudhe2018@gmail.com)
 
 ## Github Stats ##
- <img src="https://github-readme-stats.vercel.app/api?username=sanskardudhe09&show_icons=true&theme=tokyonight" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=sanskardudhe09&show_icons=true&theme=tokyonight" /> -->
 <!-- ![Sanskar's github stats](https://github-readme-stats.vercel.app/api?username=sanskardudhe09) -->
 
 ### Languages and Tools used ###
