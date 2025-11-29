@@ -7,7 +7,7 @@ I'm Sanskar, a CS Graduate from College of Engineering Pune working as a Softwar
 ## Github Stats ##
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sanskardudhe09&show_icons=true&theme=tokyonight" /> -->
 <!-- ![Sanskar's github stats](https://github-readme-stats.vercel.app/api?username=sanskardudhe09) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskardudhe09&theme=tokyonight&show_icons=true&hide=prs)
+![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskardudhe09&theme=tokyonight&show_icons=true)
 
 
 ### Languages and Tools used ###
